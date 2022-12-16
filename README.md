@@ -9,6 +9,7 @@ We have chosen to examine the tweets of 10 organizational accounts affiliated wi
 - Minority groups (here specifically racial minorities. So groups that fight for the rights of afro-americans, Latino-americans and asian-americans).
 - Religious groups (groups representing the different religions who represent the american population - christians, catholics, jewish, muslim etc.)
 ## Historical background
+The contextual background of our analysis is the Supreme Court's decision to overturn Roe vs. Wade on June 24th 2022, and thus removing abortion as a constitutional right throughout the US. After the overturnment it is now up to the politicians in each individual state to determine the states laws on abortion - this decision has so far entailed that 12 states have made total abortion bans and that many other states have tightened their abortion policies. 
 
 ## Data Collection
 ### How did we chose our groups?
