@@ -14,7 +14,6 @@ The timeline of the events can be seen below.
 - 1973: Roe vs. Wade was upheld by the U.S. Supreme Court (1973: Abortion was legalized throughout the US
 - May 3rd, 2022: Leaked Draft: On May 3, a leaked draft opinion by Supreme Court Justice Samuel Alito indicated that the Court would strike down the landmark Roe v. Wade decision, which guaranteed federal constitutional protections of abortion rights.
 - June 24th, 2022: Roe vs. Wade overturned by the Supreme Court: Abortion is no longer a constitutional right. 
-
 ## Data Collection
 ### Search query
 We have chosen to examine data from the social media Twitter, since we expect the subject of abortion to be heavily discussed here. Furthermore we wish to examine the framing from different organizational groups which are often very active on this particular media.
@@ -24,8 +23,16 @@ Seach query:
 - Time period: We chose to look a the time period from a couple of days before it was leaked that the SC was going to overturn Roe vs. Wade (May 1st) and until today (16th of November). We chose this time period to be able to see if there were some interesting developments in the debate over time, and also since abortion has been an important issue again at the Midterm elections in November. 
 - Language: We only chose tweets written in English. 
 ### How did we chose our groups?
+Our choosing of groups within each of our 5 different subgroups where dependent on several things. We searched the internet for relevant American groups/organizations within each of our 5 subgroups. Then we search these groups on Twitter and looked at a number of relevant factors: most importantly how many followers they had and how active they had been on Twitter in our time period (prioritizing accounts that actually tweet). We then chose the 10 groups we wanted to include within each of our subgroups.
+The selection of our total of 50 groups gives us a total corpus of tweets of around 10.000 tweets. 
+- NB: INSERT TABLE WITH NUMBER OF TWEETS FOR EACH GROUP
+- However, when we look at the corpuses within each of the subgroups, some of the corpuses are very small. Of couse both the pro-choice and pro-life groups have tweeted alot on our subject within our time period since this is their main policy-focus (5672 and 3750 tweets respectively), and our search query captures around 50-60% of these groups total tweets in the time period.
+- But when looking at the remaining sub-groups (LGBTQ+, Minority Groups and Religious Groups) there is very few tweets about the abortion issue within our time period - these tweets only make up about 5% of the total number of tweets within this time period from the accounts. This however makes sense, since these organizations focuses’ are not the abortion issue, so they propably only tweet on this subject very rarily in relation to big events such as the day of the overturning of Roe v. Wade (but maybe then not that much afterwards). 
 
 ## Analysis approach
+We have 5 different data corpuses representing our five different subgroups. Within each of these 5 corpuses we extracted the top 100 terms and hashtags used in the tweets about abortion. We then manually cleaned these list by making sure, that there were no duplicates and putting together terms that were connected but not captured by Cortext. We also extracted the top 10 tweets made in each corpus chosen by the number of likes the tweets got. 
+This data will be used to say something about how the different subgroups discuss and frame the abortion debate, and will make it easy to see if some of the groups use similar/very different framings.
+In the following paragraphs we will present the most frequently used terms and hashtags used by each of the subgroups when discussing the abortion issue in addition to some of the most liked tweets from each of the corpuses. 
 
 ## Empirical results
 ### Pro-Choice groups
