@@ -17,6 +17,7 @@ The timeline of the events can be seen below.
 ## Data Collection
 ### Search query
 We have chosen to examine data from the social media Twitter, since we expect the subject of abortion to be heavily discussed here. Furthermore we wish to examine the framing from different organizational groups which are often very active on this particular media.
+
 Example of seach query for the Pro-Choice subgroup:
 
 <img width="442" alt="Skærmbillede 2022-12-17 kl  14 13 30" src="https://user-images.githubusercontent.com/115983285/208243628-fa2fb39f-9963-4d92-b42f-df7e049a7db5.png">
@@ -39,4 +40,31 @@ In the following paragraphs we will present the most frequently used terms and h
 
 ## Empirical results
 ### Pro-Choice groups
+#### Most frequent terms
+#### Most frequent hashtags
+#### Top tweets
 ### Pro-Life groups
+#### Most frequent terms
+#### Most frequent hashtags
+#### Top tweets
+### Minorty groups
+#### Most frequent terms
+#### Most frequent hashtags
+#### Top tweets
+### LGBTQ2S+ groups
+#### Most frequent terms
+#### Most frequent hashtags
+#### Top tweets
+### Religious groups
+#### Most frequent terms
+#### Most frequent hashtags
+#### Top tweets
+
+### Network map
+
+### Temporal analysis
+
+## Conclusion
+
+
+
