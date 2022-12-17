@@ -41,19 +41,48 @@ In the following paragraphs we will present the most frequently used terms and h
 ## Empirical results
 ### Pro-Choice groups
 #### Most frequent terms
+
+<img width="655" alt="Skærmbillede 2022-12-17 kl  18 04 55" src="https://user-images.githubusercontent.com/115983285/208253136-af2286ef-078b-4545-a624-8248cabff9ee.png">
+
+
 #### Most frequent hashtags
+
+<img width="646" alt="Skærmbillede 2022-12-17 kl  18 04 41" src="https://user-images.githubusercontent.com/115983285/208253157-859ce3c2-b842-4db2-94ef-bdc788b01057.png">
+
+
 #### Top tweets
+
 ### Pro-Life groups
 #### Most frequent terms
+
+<img width="647" alt="Skærmbillede 2022-12-17 kl  18 04 09" src="https://user-images.githubusercontent.com/115983285/208253169-e38a575e-1f43-4544-8668-7c8c01d2c6bc.png">
+
+
 #### Most frequent hashtags
+
+<img width="655" alt="Skærmbillede 2022-12-17 kl  18 10 14" src="https://user-images.githubusercontent.com/115983285/208253328-e35d2481-ea5c-411b-a510-0ea9ee6dff37.png">
+
+
 #### Top tweets
 ### Minorty groups
 #### Most frequent terms
+
+<img width="645" alt="Skærmbillede 2022-12-17 kl  18 24 56" src="https://user-images.githubusercontent.com/115983285/208253899-cf40f88b-75f8-4f6d-8199-b6a222514890.png">
+
 #### Most frequent hashtags
+
+<img width="638" alt="Skærmbillede 2022-12-17 kl  18 26 48" src="https://user-images.githubusercontent.com/115983285/208253974-e8fddf20-0d67-4ca4-b85e-a085f47f9cfa.png">
+
 #### Top tweets
 ### LGBTQ2S+ groups
 #### Most frequent terms
+
+<img width="628" alt="Skærmbillede 2022-12-17 kl  18 30 28" src="https://user-images.githubusercontent.com/115983285/208254176-f4005100-2fbb-489e-933b-5b5a983d94a7.png">
+
 #### Most frequent hashtags
+
+<img width="619" alt="Skærmbillede 2022-12-17 kl  18 33 19" src="https://user-images.githubusercontent.com/115983285/208254182-69ad3cb1-e279-4a38-b421-82c37d5dc24c.png">
+
 #### Top tweets
 ### Religious groups
 #### Most frequent terms
