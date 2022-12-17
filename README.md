@@ -17,8 +17,11 @@ The timeline of the events can be seen below.
 ## Data Collection
 ### Search query
 We have chosen to examine data from the social media Twitter, since we expect the subject of abortion to be heavily discussed here. Furthermore we wish to examine the framing from different organizational groups which are often very active on this particular media.
-Seach query:
+Example of seach query for the Pro-Choice subgroup:
+
 <img width="442" alt="Skærmbillede 2022-12-17 kl  14 13 30" src="https://user-images.githubusercontent.com/115983285/208243628-fa2fb39f-9963-4d92-b42f-df7e049a7db5.png">
+
+
 - Words included in query: We tried to capture as many of the tweets made by these accounts about the abortion debate as possible. We did this by including more obvious terms as “abortion” and “Roe” (referring to the specific supreme court decision), but also more general words (birth, pregnant etc.), that we assume to be related to this debate in our specific time period. We have made several changes in our query - for instance removing “supreme court” from the query, since we saw that some of the tweets extracted using this term referred to other decisions made by the supreme court, that were not related to abortion. Based on the qualitative checks of tweets we have made, we feel quite confident that the words remaining in our query provides us with tweets which are relevant for our project. 
 - Time period: We chose to look a the time period from a couple of days before it was leaked that the SC was going to overturn Roe vs. Wade (May 1st) and until today (16th of November). We chose this time period to be able to see if there were some interesting developments in the debate over time, and also since abortion has been an important issue again at the Midterm elections in November. 
 - Language: We only chose tweets written in English. 
