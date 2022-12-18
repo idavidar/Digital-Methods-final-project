@@ -105,6 +105,14 @@ Also when looking at the 10 most used hashtags by these racial minority groups w
 Also the hashtag #nodataforcops illustrate that these groups have a focus on protecting the racial minorities from discrimination in relation to the abortion issue. The tweets using this hashtags argue, that the big tech companies should make sure that the police are not able to have data on which women are pregnant or has previously had abortions, since this can lead to further discrimination of especially racial minority women. Here, the organizations primary focus on racial equity is again very clear. 
 
 #### Top tweets
+
+Below we show 3 of the 10 most liked tweets made by these minority groups on the abortion issue. Generally, the indications from the terms and hashtags that these groups uses similar framing as the Pro-Choice groups are confirmed when looking at the tweets. All 3 tweets indicate harm and concern with the Supreme Court’s decision. 2 of the 3 tweets have a clear focus on framing the issue in relation to the rights of black americans and how this will especially affect this group, but as the tweet on the bottom left indicate they also highligh how it will affect other minority groups namely sexual minorities. 
+
+Another thing worth noticing is that all the top 10 tweets are made from accounts that fight for the equity and rights of black americans. 
+However, it makes sense that these groups have the highest reach and thereby the most likes, since there has been an increased focus on the rights of black people in recent years with the killing of George Floyd and the onset of the Black Lives Matter demonstrations. But as we previously saw in the hashtag list, the other racial minorities such as Asian Americans are also framing the issue in a way that reflects the group they are fighting for. 
+
+<img width="1040" alt="Skærmbillede 2022-12-18 kl  15 34 15" src="https://user-images.githubusercontent.com/115983285/208304232-567a4f54-c8b8-4e0a-9053-12ef3464f41a.png">
+
 ### LGBTQ2S+ groups
 #### Most frequent terms
 
