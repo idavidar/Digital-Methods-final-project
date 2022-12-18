@@ -1,13 +1,15 @@
 # US Abortion Debate: how do different groups frame the abortion issue?
 Group project in Digital Methods by Ida Vidar Kristensen, Faridoddin Pesteh and Ana Radomirescu
 ## Introduction
-Research question: In our group project we worked on how different groups/organizations in the United States discussed and framed the “abortion issue” specifically during and after the overturning of Roe v. Wade on the 24th of June 2022. We wanted to look at different American organizations that fight for different issues and see how they framed the subject. We wanted first and foremost to look at the distinction between pro-choice and pro-life groups (which clearly have different stances on the matter), but also at how other relevant equity seeking groups and religious groups frames the issue, and whether they speak about the issue in a way that promotes and reflects the subject they normally lobby for. Finally, we wish to examine how the different groups' framing relates to each other and whether or not certain groups use similar framing. 
+Research question: In our group project we worked on how different groups/organizations in the United States discussed and framed the “abortion issue” on Twitter specifically during and after the overturning of Roe v. Wade on the 24th of June 2022. We wanted to look at different American organizations that fight for different issues and see how they framed the subject. We wanted first and foremost to look at the distinction between pro-choice and pro-life groups (which clearly have different stances on the matter), but also at how other relevant equity seeking groups and religious groups frames the issue, and whether they speak about the issue in a way that promotes and reflects the subject they normally lobby for. Finally, we wish to examine how the different groups' framing relates to each other and whether or not certain groups use similar framing. 
 We have chosen to examine the tweets of 10 organizational accounts affiliated with 5 different subgroups (50 groups in total:
 - Pro-Choice (pro-abortion)
 - Pro-Life (anti-abortion)
 - LGBTQ2S+ groups (organizations seeking for people with different sexual orientations, genders etc.)
 - Minority groups (here specifically racial minorities. So groups that fight for the rights of afro-americans, Latino-americans and asian-americans).
 - Religious groups (groups representing the different religions who represent the american population - christians, catholics, jewish, muslim etc.)
+
+<img width="1257" alt="Skærmbillede 2022-12-18 kl  14 20 26" src="https://user-images.githubusercontent.com/115983285/208300656-78315994-0af4-4baf-ace7-aeb8265f35fb.png">
 
 ### Expectations
 - NB: I (Ida) don't know if this is relevant, but maybe be should write a bit about our expectations for the analysis and why we have chosen these specific subgroups a bit more in detail? Let me know what you think :) 
@@ -75,12 +77,23 @@ When looking at the 10 most frequent terms used by the Pro-Life groups it is cle
 
 <img width="655" alt="Skærmbillede 2022-12-17 kl  18 10 14" src="https://user-images.githubusercontent.com/115983285/208253328-e35d2481-ea5c-411b-a510-0ea9ee6dff37.png">
 
+The framing shown in the above-mentioned terms list is further enhanced when looking at the top 10 hashtags. Here it becomes even more clear that the Pro-Life groups indeed see the abortion issue as a matter of protecting the rights of the unborn human lifes with the hashtags #prolife, #lifeisahumanright and #lifewins22. Both the Pro-Life and the Pro-Choice groups are referring to rights when discussing the subject, just with focus on rights for different groups of people (unborn children vs mothers). The hashtag #cantstaysilent is used as part of a movement where Pro-Life organizations encouraged women who have earlier had an abortion (primarily forced by their partners) to share how this has affected their life and what regret and trauma it has caused in their life. An example of such a tweet can be seen below, where a woman uses her abortion story to try to convince others to give their babies up for adoption instead of having an abortion:
+- "I had an abortion with my first pregnancy on October 26, 1985. I had it on a Saturday morning & then went to my cousin's wedding that evening!! Since my abortion I had two other children, a girl and a boy, and I…put both of them up for adoption. I am 58 years old now. My birth daughter is 32, and my birth son is 31, & I keep in touch with both of them. I can't tell you the joy I feel over seeing my 2 birth children, & the depression I feel (& the tears I have cried) over the one child I aborted. #CantStaySilent"
+
+The rest of the most frequent hashtags are primarily references to the specific case such as #scotus, #supremecourt, #roevwade and #dobbsvjackson which was the case that overturned Roe vs. Wade. 
 
 #### Top tweets
+
+The picture below illustrates 3 of the most liked tweets on the abortion issue by the Pro-Life groups. As evident in both the terms and hashtags, here it is also clear, as seen in the tweet by Student for Life of America, that they see the overturnment of Roe vs. Wade as a victory and something to celebrate. In addition to this, the tweet from March for Life also shows that a great deal of the communication in the debate is directed towards the antagonist Pro-Choice groups. A frequently used pro-abortion argument is that abortion and family planning makes it easier for women to pursue both education and career opportunities, since they won't be forced to stay at home with their children. However, in this specific tweet March for Life tries to counter-argument this classical feministic argument by saying that women can easily be succesfull without having abortions. 
+
+<img width="923" alt="Skærmbillede 2022-12-18 kl  14 07 46" src="https://user-images.githubusercontent.com/115983285/208300109-1a4fc67e-6da0-440c-8fcf-fdceb8d5c25f.png">
+
 ### Minorty groups
 #### Most frequent terms
 
 <img width="645" alt="Skærmbillede 2022-12-17 kl  18 24 56" src="https://user-images.githubusercontent.com/115983285/208253899-cf40f88b-75f8-4f6d-8199-b6a222514890.png">
+
+We are now turning towards the 10 most frequently used terms by the organizations fighting for racial minorities.
 
 #### Most frequent hashtags
 
