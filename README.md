@@ -93,11 +93,16 @@ The picture below illustrates 3 of the most liked tweets on the abortion issue b
 
 <img width="645" alt="Skærmbillede 2022-12-17 kl  18 24 56" src="https://user-images.githubusercontent.com/115983285/208253899-cf40f88b-75f8-4f6d-8199-b6a222514890.png">
 
-We are now turning towards the 10 most frequently used terms by the organizations fighting for racial minorities.
+We are now turning towards the 10 most frequently used terms by the organizations fighting for racial minorities. At first sight, we see that these racial equity seeking groups use a framing much more similar to the Pro-Choice groups than the Pro-Life groups, since they also have several terms that refers to the issue as a “rights” issue” and also often mention the subsequent “abortion bans” that have taken place in many states since the overturnment of Roe vs. Wade. In addition to this, it is worth noticing that these groups actually do refer to the abortion issue in a way that highlights the issues they normally lobby for - here the racial minorities. This is clearly seen since some of the most frequently used terms are “Black people”, “Black women” and “racial justice issue”. They specifically frame the abortion issue as an issue for the black community and the black women. 
 
 #### Most frequent hashtags
 
 <img width="638" alt="Skærmbillede 2022-12-17 kl  18 26 48" src="https://user-images.githubusercontent.com/115983285/208253974-e8fddf20-0d67-4ca4-b85e-a085f47f9cfa.png">
+
+Also when looking at the 10 most used hashtags by these racial minority groups we see some of the same hashtags used as by the pro-choice groups, namely #bansoffourbodies which is a prominent hashtag in both groups. In general, these minority groups have a big focus on the right to make decisions about your own body, which is clearly shown in several other of hashtags such as #liberatedbodies and #bodilyautonomy. Although not as evident as in the terms list, the racial equity agenda is also represented in the hashtags through #aapi which stands for Asian Americans and Pacific Islanders, who are specifically mentioned in some of the tweets as for instance the one illustrated below:
+- "#ReproductiveRights are a civil & human right. This is all our responsibility.At @NAPAWF & @EthnicMediaSvc's briefing, our President & Executive Director @johncyangdc discussed what is at stake for the #AAPI community if Roe v. Wade is overturned"
+
+Also the hashtag #nodataforcops illustrate that these groups have a focus on protecting the racial minorities from discrimination in relation to the abortion issue. The tweets using this hashtags argue, that the big tech companies should make sure that the police are not able to have data on which women are pregnant or has previously had abortions, since this can lead to further discrimination of especially racial minority women. Here, the organizations primary focus on racial equity is again very clear. 
 
 #### Top tweets
 ### LGBTQ2S+ groups
