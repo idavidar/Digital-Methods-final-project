@@ -59,6 +59,11 @@ When moving on to the top 10 most frequent hashtags from the Pro-Choice groups t
 
 #### Top tweets
 
+In the picture below we have illustrated 4 of the top 10 most liked tweets in the Pro-Choice corpus. These four tweets clearly illustrates the framing of the issue also shown in the terms and tweets above, but also the different events that occured in our time period of investigation. The tweet by Planned Parenthood in the bottom right of the picture is made on the very day where the leaked draft came out, and it was annouced that the Supreme Court would overturn Roe vs. Wade. Here Planned Parenthood is trying to inform people, that it is still possible to access abortions and where to find help. The two tweets in the top are both from the specific dates where the overturnment was finally passed in the Supreme Court, and therefore have a much more angry and indignant tone. The last tweet chosen in the bottom left is from the end of our time period (November) and nicely shows the sugsequent process of the overturnment, where the different states now suddenly have to make their own laws about abortion.
+
+
+<img width="857" alt="Skærmbillede 2022-12-18 kl  12 13 30" src="https://user-images.githubusercontent.com/115983285/208295198-8cfae82b-c50b-45a8-841b-98f6ed2ec5f8.png">
+
 ### Pro-Life groups
 #### Most frequent terms
 
