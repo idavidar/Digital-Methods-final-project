@@ -1,13 +1,17 @@
 # US Abortion Debate: how do different groups frame the abortion issue?
 Group project in Digital Methods by Ida Vidar Kristensen, Faridoddin Pesteh and Ana Radomirescu
 ## Introduction
-Research question: In our group project we worked on how different groups/organizations in the United States discussed and framed the “abortion issue” specifically during and after the overturning of Roe v. Wade on the 24th of June 2022. We wanted to look at different American organizations that fight for different issues and see how they framed the subject. We wanted first and foremost to look at the distinction between pro-choice and pro-life groups (which clearly have different stances on the matter), but also at how other relevant equity seeking groups and religious groups frames the issue, and whether they speak about the issue in a way that promotes and reflects the subject they normally lobby for. 
+Research question: In our group project we worked on how different groups/organizations in the United States discussed and framed the “abortion issue” specifically during and after the overturning of Roe v. Wade on the 24th of June 2022. We wanted to look at different American organizations that fight for different issues and see how they framed the subject. We wanted first and foremost to look at the distinction between pro-choice and pro-life groups (which clearly have different stances on the matter), but also at how other relevant equity seeking groups and religious groups frames the issue, and whether they speak about the issue in a way that promotes and reflects the subject they normally lobby for. Finally, we wish to examine how the different groups' framing relates to each other and whether or not certain groups use similar framing. 
 We have chosen to examine the tweets of 10 organizational accounts affiliated with 5 different subgroups (50 groups in total:
 - Pro-Choice (pro-abortion)
 - Pro-Life (anti-abortion)
 - LGBTQ2S+ groups (organizations seeking for people with different sexual orientations, genders etc.)
 - Minority groups (here specifically racial minorities. So groups that fight for the rights of afro-americans, Latino-americans and asian-americans).
 - Religious groups (groups representing the different religions who represent the american population - christians, catholics, jewish, muslim etc.)
+
+### Expectations
+- NB: I (Ida) don't know if this is relevant, but maybe be should write a bit about our expectations for the analysis and why we have chosen these specific subgroups a bit more in detail? Let me know what you think :) 
+
 ### Historical background
 The contextual background of our analysis is the Supreme Court's decision to overturn Roe vs. Wade on June 24th 2022, and thus removing abortion as a constitutional right throughout the US. After the overturnment it is now up to the politicians in each individual state to determine the states laws on abortion - this decision has so far entailed that 12 states have made total abortion bans and that many other states have tightened their abortion policies. 
 The timeline of the events can be seen below. 
@@ -34,9 +38,9 @@ The selection of our total of 50 groups gives us a total corpus of tweets of aro
 - But when looking at the remaining sub-groups (LGBTQ+, Minority Groups and Religious Groups) there is very few tweets about the abortion issue within our time period - these tweets only make up about 5% of the total number of tweets within this time period from the accounts. This however makes sense, since these organizations focuses’ are not the abortion issue, so they propably only tweet on this subject very rarily in relation to big events such as the day of the overturning of Roe v. Wade (but maybe then not that much afterwards). 
 
 ## Analysis approach
-We have 5 different data corpuses representing our five different subgroups. Within each of these 5 corpuses we extracted the top 100 terms and hashtags used in the tweets about abortion. We then manually cleaned these list by making sure, that there were no duplicates and putting together terms that were connected but not captured by Cortext. We also extracted the top 10 tweets made in each corpus chosen by the number of likes the tweets got. 
+We have 5 different data corpuses representing our five different subgroups. Within each of these 5 corpuses we extracted the top 100 terms (monograms forbidden) and hashtags used in the tweets about abortion. We then manually cleaned these list to make sure that there were no duplicates and putting together terms that were clearly connected but not captured by Cortext (e.g. "#Roevwade" and "#Roevswade"). We also extracted the top 10 tweets made in each corpus based on the number of likes the tweets got. 
 This data will be used to say something about how the different subgroups discuss and frame the abortion debate, and will make it easy to see if some of the groups use similar/very different framings.
-In the following paragraphs we will present the most frequently used terms and hashtags used by each of the subgroups when discussing the abortion issue in addition to some of the most liked tweets from each of the corpuses. 
+In the following paragraphs we will present the 10 most frequently used terms and hashtags used by each of the subgroups when discussing the abortion issue in addition to some of the most liked tweets from each of the corpuses to try to illustrate the narratives in these tweets. 
 
 ## Empirical results
 ### Pro-Choice groups
@@ -44,11 +48,13 @@ In the following paragraphs we will present the most frequently used terms and h
 
 <img width="655" alt="Skærmbillede 2022-12-17 kl  18 04 55" src="https://user-images.githubusercontent.com/115983285/208253136-af2286ef-078b-4545-a624-8248cabff9ee.png">
 
+When looking at the top 10 most frequent used terms in the tweets from the Pro-Choice corpus, they naturally first and foremost refer to the specific case and the fact that an "abortion ban" is going to be passed in several states also mentioning specifically the "Supreme Court". Hereafter, it is worth noticing that the issue is almost always mentioned using the terms "rights", "freedom" or "care". This shows that they strongly frame the issue of abortion as a fundamental human right, and that they believe that the overturning of Roe vs. Wade will have consequences for both the care and health of pregnant women. All in all, these terms highly align with the expected stances of these Pro-choice groups. Actually, the Pro-choice groups often prefer to be called Pro-Reproductive Rights, since they find this term less polarizing. This is also reflected in their most frequent used terms, where the word "reproductive" recurs several times. 
 
 #### Most frequent hashtags
 
 <img width="646" alt="Skærmbillede 2022-12-17 kl  18 04 41" src="https://user-images.githubusercontent.com/115983285/208253157-859ce3c2-b842-4db2-94ef-bdc788b01057.png">
 
+When moving on to the top 10 most frequent hashtags from the Pro-Choice groups there is again a clear focus on freedom, which is obviously an essential aspect of the abortion discussion that pro-choice groups often highlight. This can be seen in the 3 most frequent hashtags #fightbackforfreedom, #bansoffourbodies and #reprofreedomvoter. Then again there is also clearly some use of hashtags linking the tweets to the specific case such as #scotus, #roevwade and #roe. Furthermore, there on of the most frequently used hashtags are #whpa which refers to the socalled Women's Health Protection Act. The WHPA is a piece of federal legislation proposed by the House of Representatives multiple times the last 10 years trying to expand the abortion rights established in Roe vs. Wade to protect the right to access abortion care throughout the US, even in case of an overturnment of Roe vs. Wade. The WHPA was proposed by Democrats in the House and passed through the House (which had a Democratic majority) in early 2022, but was rejected by the Senate (which did not have a Democratic majority) in both February and May 2022.
 
 #### Top tweets
 
