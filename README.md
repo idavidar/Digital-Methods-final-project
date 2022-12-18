@@ -5,8 +5,8 @@ Research question: In our group project we worked on how different groups/organi
 We have chosen to examine the tweets of 10 organizational accounts affiliated with 5 different subgroups (50 groups in total:
 - Pro-Choice (pro-abortion)
 - Pro-Life (anti-abortion)
-- LGBTQ2S+ groups (organizations seeking for people with different sexual orientations, genders etc.)
-- Minority groups (here specifically racial minorities. So groups that fight for the rights of afro-americans, Latino-americans and asian-americans).
+- LGBTQ2S+ groups (organizations seeking equity for people with different sexual orientations, genders etc.)
+- Minority groups (here specifically racial minorities. Namely groups that fight for the rights of afro-americans, Latino-americans and asian-americans respectively).
 - Religious groups (groups representing the different religions who represent the american population - christians, catholics, jewish, muslim etc.)
 
 <img width="1257" alt="Skærmbillede 2022-12-18 kl  14 20 26" src="https://user-images.githubusercontent.com/115983285/208300656-78315994-0af4-4baf-ace7-aeb8265f35fb.png">
@@ -118,11 +118,23 @@ However, it makes sense that these groups have the highest reach and thereby the
 
 <img width="628" alt="Skærmbillede 2022-12-17 kl  18 30 28" src="https://user-images.githubusercontent.com/115983285/208254176-f4005100-2fbb-489e-933b-5b5a983d94a7.png">
 
+We now turn towards the 10 most frequently used terms by the LGBTQ2S+ groups that fight for the rights of people with different sexualities, genders etc. Here it is prevalent that the framing of the abortion issue by these groups is highly aligned with that of the Pro-Choice groups since 7 of the 10 terms overlap. As the Pro-Choice groups, and also the racial minority groups, they frame the issue in terms of “rights”, “care” and “health”. They clearly perceive abortion as an indisputable “reproductive right”, which is important for health concerns. As well as the racial minority groups they also have some group-specific terms on their top 10 list namely “trans people” and “LGBTQ+ rights”. This again exemplifies that these groups talk about the issue in a way that highlights their own target audience and how they will be affected by the overturnment of Roe vs. Wade. 
+
 #### Most frequent hashtags
 
 <img width="619" alt="Skærmbillede 2022-12-17 kl  18 33 19" src="https://user-images.githubusercontent.com/115983285/208254182-69ad3cb1-e279-4a38-b421-82c37d5dc24c.png">
 
+When looking at the 10 most frequent hashtags of the LGBTQ2S+ groups there is also a notable overlap with the Pro-Choice and racial minority groups in the use of the #bansoffourbodies hashtag. These groups also use the #WHPA and thus refer to the Women Health Protection Act previously mentioned which could secure the abortion rights throughout the US. However, most of the hashtags used by these groups are group-specific and referring to the group’s primary cause namely #lgbtq, #transgender, #queeringrepro and #nonbinary. A lot of the tweets using the aforementioned hashtags deal with the fact that the organizations are fearfull that the overturnment of Roe vs. Wade will be followed by other more conservative legislation that will deprive LGBTQ2S+ people of other reproductive rights such as fertility treatment. This is for instance seen in the tweet below:
+- "Repro tech is at risk for LGBTQ families!🔬 State Senator @ZachWahls tells us about how his two moms used artificial reproductive technology (ART) to have children and create a family.🟣 Why do you think politicians are trying to put an end to LGBTQ families?"
+
+Thereby, the abortion debate is both relevant for these groups, since they fear for the rights and health of those LGBTQ2S+ people who are pregnant, but also because they fear if these people will be able to receive help to get pregnant in the future. 
+
 #### Top tweets
+
+Below is shown 3 of the 10 most liked tweets from these groups on the abortion issue. From these tweets it is also evident that the LGBTQ2S+ groups are definitely seeing the abortion issue as an issue for their target group. As mentioned in the hashtag section the groups are also worried how this will affect future Supreme Court decisions on LGBTQ2S+ people’s rights. This is also seen in the tweet on the right, where it is mentioned that one of the Supreme Court justices, Justice Thomas, had spoken som “alarming” words on other rulings (Obergefell v. Hodges and Lawrence v. Texas). These specific rulings are essential for LGBTQ2S+ people’s guaranteed right to same-sex marriage. This tweets thus clearly shows that these groups see the abortion issue as an issue that can lead to other subsequent negative effects on their target group in the future. 
+
+<img width="944" alt="Skærmbillede 2022-12-18 kl  19 04 03" src="https://user-images.githubusercontent.com/115983285/208312356-a1f62b92-51e5-49dc-9b89-ad29e57a21b0.png">
+
 ### Religious groups
 #### Most frequent terms
 #### Most frequent hashtags
