@@ -18,16 +18,18 @@ We chose to examine the tweets of 5 types of groups, and selected 10 organizatio
 - NB: I (Ida) don't know if this is relevant, but maybe be should write a bit about our expectations for the analysis and why we have chosen these specific subgroups a bit more in detail? Let me know what you think :) 
 
 ### Historical background
-The contextual background of our analysis is the Supreme Court's decision to overturn Roe vs. Wade on June 24th 2022, and thus removing abortion as a constitutional right throughout the US. After the overturnment it is now up to the politicians in each individual state to determine the states laws on abortion - this decision has so far entailed that 12 states have made total abortion bans and that many other states have tightened their abortion policies. 
-The timeline of the events can be seen below. 
-- 1973: Roe vs. Wade was upheld by the U.S. Supreme Court (1973: Abortion was legalized throughout the US
-- May 3rd, 2022: Leaked Draft: On May 3, a leaked draft opinion by Supreme Court Justice Samuel Alito indicated that the Court would strike down the landmark Roe v. Wade decision, which guaranteed federal constitutional protections of abortion rights.
-- June 24th, 2022: Roe vs. Wade overturned by the Supreme Court: Abortion is no longer a constitutional right. 
+The contextual background of our analysis is the Supreme Court's decision to overturn *Roe v. Wade* on June 24th 2022, removing abortion as a constitutional right throughout the US. This left it up to the individual states to determine the local laws on abortion. As of 12 December 2022, [13 states instituted total abortion bans and many others have tightened their abortion policies](https://www.nytimes.com/interactive/2022/us/abortion-laws-roe-v-wade.html). 
+
+The timeline of the events: 
+- 1973: The US Supreme Court decision on *Roe v. Wade* made abortion a constitutional right throughout the US.
+- 2022, May 3rd: a leaked draft majority opinion of the Supreme Court in Dobbs v Jackson indicated that the Court would overturn *Roe v. Wade*.
+- 2022, June 24th: *Roe v. Wade* overturned by the Supreme Court: abortion is no longer a constitutional right.
+
 ## Data Collection
 ### Search query
-We have chosen to examine data from the social media Twitter, since we expect the subject of abortion to be heavily discussed here. Furthermore we wish to examine the framing from different organizational groups which are often very active on this particular media.
+We chose to collect data from Twitter, a popular social media platform, because i) we expect the subject of abortion to be heavily discussed there, ii) the types of groups we chose to analyse are often very active on this platform, and iii) their interactions are public.
 
-Example of seach query for the Pro-Choice subgroup:
+Below is an example of the seach query we used (in this case, for the Pro-Choice group):
 
 <img width="442" alt="Skærmbillede 2022-12-17 kl  14 13 30" src="https://user-images.githubusercontent.com/115983285/208243628-fa2fb39f-9963-4d92-b42f-df7e049a7db5.png">
 
