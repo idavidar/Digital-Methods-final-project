@@ -22,7 +22,7 @@ The contextual background of our analysis is the Supreme Court's decision to ove
 
 The timeline of the events: 
 - 1973: The US Supreme Court decision on *Roe v. Wade* made abortion a constitutional right throughout the US.
-- 2022, May 3rd: a leaked draft majority opinion of the Supreme Court in *Dobbs v. Jackson* indicated that the Court would overturn *Roe v. Wade*.
+- 2022, May 3rd: a leaked draft majority opinion of the Supreme Court in *Dobbs v. Jackson* indicated that the Court would overturn *Roe*.
 - 2022, June 24th: *Roe v. Wade* overturned by the Supreme Court: abortion is no longer a constitutional right.
 
 ## Data Collection
@@ -35,7 +35,7 @@ Below is an example of the seach query we used (in this case, for the Pro-Choice
 
 
 - Words included in query: We tried to capture as many of the tweets made by these accounts about the abortion debate as possible. We did this by including more obvious terms as “abortion” and “Roe” (referring to the specific Supreme Court decision), but also more general words (birth, pregnant etc.), that we assume to be related to this debate in our specific time period. We have made several changes in our query - for instance removing “Supreme Court” from the query, since we saw that some of the tweets extracted using this term referred to other decisions made by the Supreme Court, that were not related to abortion. Based on the qualitative checks of tweets we have made, we feel quite confident that the words remaining in our query provides us with tweets which are relevant for our project. 
-- Time period: We chose to look a the time period from a couple of days before it was leaked that the Supreme Court was going to overturn Roe vs. Wade (May 1st) and until today (16th of November). We chose this time period to be able to see if there were some interesting developments in the debate over time, and also since abortion has been an important issue again at the Midterm elections in November. 
+- Time period: We chose to look a the time period from a couple of days before it was leaked that the Supreme Court was going to overturn Roe vs. Wade (May 1st) and until the day of our analysis (16th of November). We chose this time period to be able to see if there were some interesting developments in the debate over time, and also since abortion has been an important issue again at the Midterm elections in November. 
 - Language: We only chose tweets written in English. 
 ### How did we chose our groups?
 Our choosing of groups within each of our 5 different subgroups where dependent on several things. We searched the internet for relevant American groups/organizations within each of our 5 subgroups. Then we search these groups on Twitter and looked at a number of relevant factors: most importantly how many followers they had and how active they had been on Twitter in our time period (prioritizing accounts that actually tweet). We then chose the 10 groups we wanted to include within each of our subgroups.
@@ -142,8 +142,19 @@ Below is shown 3 of the 10 most liked tweets from these groups on the abortion i
 
 ### Religious groups
 #### Most frequent terms
+
+Although we sampled tweets from representative of a range of Christian denominations, the terms (and, as shown below, the hashtags) used are very similar with those used by pro-life groups. This can be seen even evidently from the fact that religious groups often mention the ‘pro-life movement’ directly. Both groups emphasise pregnancy centres and abortion extremism. We also see some actual religious-themed terms, like ‘Catholic churches.’
+
+
 #### Most frequent hashtags
+
+Again, we see ‘prolife’ hashtag mentioned often. Interestingly, these groups still want to frame themselves as being ‘pro’ something, reflecting the [change that the ‘prolife’ movement itself undertook](https://en.wikipedia.org/wiki/United_States_anti-abortion_movement#History) from ‘anti-abortion’ to ‘pro-life,’ so they use the hashtags ‘prowoman’ and ‘profamily’ too. We see some religious-themed hashtags like ‘catholic’ and ‘rosary’. Furthermore, there are ‘sbc22’ which stands for Southern Baptist Convention and ‘ewtn’ (Eternal World Television Network) which is a Catholic television network - although these are specifically religious-themed terms, they are more akin to being the contexts for the Tweets (in fact, ewtn is one of the accounts whose Tweets we are analysing), rather than helping to elucidate the ways in which the religious groups frame the abortion issue.
+
+
+
 #### Top tweets
+
+*Some screenshots from Ana here*
 
 ### Network map
 
