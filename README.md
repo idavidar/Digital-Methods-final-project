@@ -22,7 +22,7 @@ The contextual background of our analysis is the Supreme Court's decision to ove
 
 The timeline of the events: 
 - 1973: The US Supreme Court decision on *Roe v. Wade* made abortion a constitutional right throughout the US.
-- 2022, May 3rd: a leaked draft majority opinion of the Supreme Court in Dobbs v Jackson indicated that the Court would overturn *Roe v. Wade*.
+- 2022, May 3rd: a leaked draft majority opinion of the Supreme Court in *Dobbs v Jackson* indicated that the Court would overturn *Roe v. Wade*.
 - 2022, June 24th: *Roe v. Wade* overturned by the Supreme Court: abortion is no longer a constitutional right.
 
 ## Data Collection
