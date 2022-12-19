@@ -1,13 +1,16 @@
-# US Abortion Debate: how do different groups frame the abortion issue?
+# US Abortion Debate: how do different groups frame the 'abortion issue'?
 Group project in Digital Methods by Ida Vidar Kristensen, Faridoddin Pesteh and Ana Radomirescu
 ## Introduction
-Research question: In our group project we worked on how different groups/organizations in the United States discussed and framed the “abortion issue” on Twitter specifically during and after the overturning of Roe v. Wade on the 24th of June 2022. We wanted to look at different American organizations that fight for different issues and see how they framed the subject. We wanted first and foremost to look at the distinction between pro-choice and pro-life groups (which clearly have different stances on the matter), but also at how other relevant equity seeking groups and religious groups frames the issue, and whether they speak about the issue in a way that promotes and reflects the subject they normally lobby for. Finally, we wish to examine how the different groups' framing relates to each other and whether or not certain groups use similar framing. 
-We have chosen to examine the tweets of 10 organizational accounts affiliated with 5 different subgroups (50 groups in total:
-- Pro-Choice (pro-abortion)
-- Pro-Life (anti-abortion)
+2022 has been a tumultuous year for the abortion debate in America. With the Supreme Court overturning *Roe v. Wade*, a ruling that provided the constitutional right to abortion, in June this year, the legal battle has been [shifted to states](https://apnews.com/article/supreme-court-abortion-ruling-states-a767801145ad01617100e57410a0a21d). Groups on both sides of the debate have fiercely campaigned and [protested](https://en.wikipedia.org/wiki/2022_abortion_protests) for their causes.
+
+Our group project analyses how different groups/organizations in the United States discussed and framed the 'abortion issue' on Twitter, specifically since the leaked Supreme Court draft opinion on *Dobbs v. Jackson* which sought to overturn *Roe*. We looked at American groups that fight for a variety of social issues to see how they framed the subject. First and foremost, we were interested in the framing differences between pro-choice and pro-life groups (which clearly have different stances on the matter). Further, we wanted to see how other relevant equity-seeking groups and religious groups frame the issue of abortion: whether their chosen framing promotes and reflects their stance on the social issue that is their main focus, and whether or not certain groups use similar framing.
+
+We chose to examine the tweets of 5 types of groups, and selected 10 organizational accounts representing each group (50 accounts in total):
+- Pro-Choice groups (pro-abortion)
+- Pro-Life groups (anti-abortion)
 - LGBTQ2S+ groups (organizations seeking equity for people with different sexual orientations, genders etc.)
-- Minority groups (here specifically racial minorities. Namely groups that fight for the rights of afro-americans, Latino-americans and asian-americans respectively).
-- Religious groups (groups representing the different religions who represent the american population - christians, catholics, jewish, muslim etc.)
+- Racial minority groups (organisations that fight for the rights of African-americans, Latino-americans and Asian-americans).
+- Christian religious groups (Catholics, Protestants, and Mormons)
 
 <img width="1257" alt="Skærmbillede 2022-12-18 kl  14 20 26" src="https://user-images.githubusercontent.com/115983285/208300656-78315994-0af4-4baf-ace7-aeb8265f35fb.png">
 
