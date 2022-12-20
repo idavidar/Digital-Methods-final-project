@@ -165,7 +165,7 @@ When looking at the 10 most frequent terms used by Christian groups, we see some
 
 In line with our hypothesis, we also see some religious-themed terms, like ‘Catholic churches,’ however, not as many as we would have expected.
 
-This is also the first time we see mention of ‘Joe Biden,’ which may suggest that the Christian groups are willing to politicise the issue of abortion in their discourse. However, it is likely to also be because one of our groups is ‘CatholicVote,’ which is likely to be a more politically-active organisation than others in our sample, given that it is [organized as a 501(c)4 grassroots lobbying organization with a connected political action committee … [that enables it to] lobby Congress in favor of (or against) legislation … [and] endorse (or oppose) candidates for elective office](https://catholicvote.org/mission-learn-more).
+This is also the first time we see mention of ‘Joe Biden,’ which may suggest that the Christian groups are willing to politicise the issue of abortion in their discourse. However, it is likely to also be because one of our groups is ‘CatholicVote,’ which is likely to be a more politically-active organisation than others in our sample, given that it is "[organized as a 501(c)4 grassroots lobbying organization with a connected political action committee … [that enables it to] lobby Congress in favor of (or against) legislation … [and] endorse (or oppose) candidates for elective office](https://catholicvote.org/mission-learn-more)."
 
 
 #### Most frequent hashtags
@@ -173,8 +173,11 @@ This is also the first time we see mention of ‘Joe Biden,’ which may suggest
 <img width="735" alt="Skærmbillede 2022-12-20 kl  15 37 48" src="https://user-images.githubusercontent.com/115983285/208692307-12de284b-4690-4168-8f63-483b3990bd9f.png">
 
 
-Again, we see ‘prolife’ hashtag mentioned often. Interestingly, these groups still want to frame themselves as being ‘pro’ something, reflecting the [change that the ‘pro-life’ movement itself undertook](https://en.wikipedia.org/wiki/United_States_anti-abortion_movement#History) from ‘anti-abortion’ to ‘pro-life,’ so they use the hashtags ‘prowoman’ and ‘profamily’ too. We see some religious-themed hashtags like ‘catholic’ and ‘rosary’. Furthermore, there are ‘sbc22’ which stands for Southern Baptist Convention and ‘ewtn’ (Eternal World Television Network) which is a Catholic television network - although these are specifically religious-themed terms, they are more akin to being the contexts for the Tweets (in fact, ewtn is one of the accounts whose Tweets we are analysing), rather than helping to elucidate the ways in which the religious groups frame the abortion issue.
-
+In contrast to the most frequent terms, the most frequent hashtags exhibit a clearer similarity with pro-life groups (rather than pro-choice) and more religion-themed terms. Most clearly, we see the #prolife hashtag mentioned often. Interestingly, these groups still want to frame themselves as being ‘pro’ something, reflecting the [change that the ‘pro-life’ movement itself undertook](https://en.wikipedia.org/wiki/United_States_anti-abortion_movement#History) from ‘anti-abortion’ to ‘pro-life,’ so they use the hashtags #prowoman and #profamily, both of which are associated with a pro-life, anti-abortion stance. We see many religious-themed hashtags, like ‘catholic’ and ‘rosary.’ Three other popular hashtags are:
+- #sbc22, which stands for the [2022 annual meeting of the Southern Baptist Convention](https://sbcannualmeeting.net/events/) (held on 11-15 June, during our chosen time period for sampling),
+- #ewtn (Eternal World Television Network) which is a Catholic television network, and
+- #pcusa (Presbytarian Church USA).
+Although these are also technically religious-themed hashtags, they are better thought of as being the contexts for the tweets (in fact, ewtn and pcusa are two of the accounts whose tweets we are analysing, and probably hashtag themselves), rather than helping to elucidate the ways in which the religious groups frame the abortion issue.
 
 
 #### Top tweets
