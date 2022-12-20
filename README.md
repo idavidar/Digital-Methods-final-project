@@ -148,14 +148,15 @@ Below is shown 3 of the 10 most liked tweets from these groups on the abortion i
 ### Religious groups
 #### Most frequent terms
 
-<img width="465" alt="Skærmbillede 2022-12-20 kl  15 27 42" src="https://user-images.githubusercontent.com/115983285/208690055-796158d6-6f2f-4e81-bffd-6c4c91c0e080.png">
+<img width="735" alt="Skærmbillede 2022-12-20 kl  15 37 58" src="https://user-images.githubusercontent.com/115983285/208692354-db96757c-8f22-45e2-b64a-748869bb7604.png">
 
 Although we sampled tweets from representative of a range of Christian denominations, the terms (and, as shown below, the hashtags) used are very similar with those used by pro-life groups. This can be seen even evidently from the fact that religious groups often mention the ‘pro-life movement’ directly. Both groups emphasise pregnancy centres and abortion extremism. We also see some actual religious-themed terms, like ‘Catholic churches.’
 
 
 #### Most frequent hashtags
 
-<img width="463" alt="Skærmbillede 2022-12-20 kl  15 27 01" src="https://user-images.githubusercontent.com/115983285/208690083-e7e015a7-1a11-40c8-aac0-9bb3ea05f78e.png">
+<img width="735" alt="Skærmbillede 2022-12-20 kl  15 37 48" src="https://user-images.githubusercontent.com/115983285/208692307-12de284b-4690-4168-8f63-483b3990bd9f.png">
+
 
 Again, we see ‘prolife’ hashtag mentioned often. Interestingly, these groups still want to frame themselves as being ‘pro’ something, reflecting the [change that the ‘prolife’ movement itself undertook](https://en.wikipedia.org/wiki/United_States_anti-abortion_movement#History) from ‘anti-abortion’ to ‘pro-life,’ so they use the hashtags ‘prowoman’ and ‘profamily’ too. We see some religious-themed hashtags like ‘catholic’ and ‘rosary’. Furthermore, there are ‘sbc22’ which stands for Southern Baptist Convention and ‘ewtn’ (Eternal World Television Network) which is a Catholic television network - although these are specifically religious-themed terms, they are more akin to being the contexts for the Tweets (in fact, ewtn is one of the accounts whose Tweets we are analysing), rather than helping to elucidate the ways in which the religious groups frame the abortion issue.
 
