@@ -161,8 +161,11 @@ We now turn to analyse the corpus of tweets from Christian religious groups. We 
 
 <img width="735" alt="Skærmbillede 2022-12-20 kl  15 37 58" src="https://user-images.githubusercontent.com/115983285/208692354-db96757c-8f22-45e2-b64a-748869bb7604.png">
 
-When looking at the 10 most frequent terms used by Christian groups, 
-Although we sampled tweets from representative of a range of Christian denominations, the terms (and, as shown below, the hashtags) used are very similar with those used by pro-life groups. This can be seen even evidently from the fact that religious groups often mention the ‘pro-life movement’ directly. Both groups emphasise pregnancy centres and abortion extremism. We also see some actual religious-themed terms, like ‘Catholic churches.’
+When looking at the 10 most frequent terms used by Christian groups, we see some repetitions of terms used by both pro-choice and pro-life groups. This finding is as expected, since, as mentioned, Christian groups vary in their stand on the ‘abortion issue,’ and the corpus of tweets includes those with both pro-life and with pro-choice stands. For example, ‘support abortion’ (a main form which in fact represents many phrases like ‘support abortion’ and ‘support for abortion’ and ‘abortion support’) and ‘reproductive healthcare’ are terms indicative of a pro-choice stance. The affinity with pro-life groups, on the other hand, can be seen most evidently from the fact that religious groups often mention the ‘pro-life movement’ directly. Both Christian and pro-life groups also often mention ‘pregnancy centres’ and ‘abortion extremism.’ 
+
+In line with our hypothesis, we also see some religious-themed terms, like ‘Catholic churches,’ however, not as many as we would have expected.
+
+This is also the first time we see mention of ‘Joe Biden,’ which may suggest that the Christian groups are willing to politicise the issue of abortion in their discourse. However, it is likely to also be because one of our groups is ‘CatholicVote,’ which is likely to be a more politically-active organisation than others in our sample, given that it is [organized as a 501(c)4 grassroots lobbying organization with a connected political action committee … [that enables it to] lobby Congress in favor of (or against) legislation … [and] endorse (or oppose) candidates for elective office](https://catholicvote.org/mission-learn-more).
 
 
 #### Most frequent hashtags
