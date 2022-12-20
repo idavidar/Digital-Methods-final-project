@@ -150,7 +150,7 @@ Thereby, the abortion debate is both relevant for these groups, since they fear 
 
 #### Top tweets
 
-Below is shown 3 of the 10 most liked tweets from these groups on the abortion issue. From these tweets it is also evident that the LGBTQ2S+ groups are definitely seeing the abortion issue as an issue for their target group. As mentioned in the hashtag section the groups are also worried how this will affect future Supreme Court decisions on LGBTQ2S+ people’s rights. This is also seen in the tweet on the right, where it is mentioned that one of the Supreme Court justices, Justice Thomas, had spoken som [“alarming” words](https://outinjersey.net/what-happens-if-scotus-repeals-obergefell-v-hodges-when-court-resumes/) on other rulings (Obergefell v. Hodges and Lawrence v. Texas). These specific rulings are essential for LGBTQ2S+ people’s guaranteed right to same-sex marriage. This tweets thus clearly shows that these groups see the abortion issue as an issue that can lead to other subsequent negative effects on their target group in the future. 
+Below are 3 of the 10 most liked tweets from these groups on the abortion issue. From these tweets it is also evident that the LGBTQ2S+ groups are definitely seeing the abortion issue as an issue for their target group. As mentioned in the hashtag section the groups are also worried how this will affect future Supreme Court decisions on LGBTQ2S+ people’s rights. This is also seen in the tweet on the right, where it is mentioned that one of the Supreme Court justices, Justice Thomas, had spoken som [“alarming” words](https://outinjersey.net/what-happens-if-scotus-repeals-obergefell-v-hodges-when-court-resumes/) on other rulings (_Obergefell v. Hodges_ and _Lawrence v. Texas_). These specific rulings are essential for LGBTQ2S+ people’s guaranteed right to same-sex marriage. This tweets thus clearly shows that these groups see the abortion issue as an issue that can lead to other subsequent negative effects on their target group in the future. 
 
 <img width="944" alt="Skærmbillede 2022-12-18 kl  19 04 03" src="https://user-images.githubusercontent.com/115983285/208312356-a1f62b92-51e5-49dc-9b89-ad29e57a21b0.png">
 
@@ -181,8 +181,10 @@ Although these are also technically religious-themed hashtags, they are better t
 
 
 #### Top tweets
+Below are 3 of the 10 most liked tweets from Christian religious organisations on the abortion issue. They illustrate most clearly the way that these organisations use religious language when talking about the abortion debate - for example, “PRAISE GOD!” (right) and “Roe overturned on the day we celebrate the Sacred Heart” (top left).
+The phrase “culture of life” is featured in the bottom-left tweet, and is common in tweets from Christian religious organisations and pro-life organisation. It is a term that [originated in moral theology, especially that of the Catholic Church, and refers to a belief that human life at all stages from conception to death is sacred](https://en.wikipedia.org/wiki/Culture_of_life) (thus, opposing abortion).
 
-<img width="487" alt="Skærmbillede 2022-12-20 kl  15 30 15" src="https://user-images.githubusercontent.com/115983285/208690627-5c73fb8c-d43b-4a43-8e6d-903ba30addb2.png">
+<img width="600" alt="Skærmbillede 2022-12-20 kl  15 30 15" src="https://user-images.githubusercontent.com/115983285/208690627-5c73fb8c-d43b-4a43-8e6d-903ba30addb2.png">
 
 
 ### Network map
