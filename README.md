@@ -163,6 +163,8 @@ Again, we see ‘prolife’ hashtag mentioned often. Interestingly, these groups
 
 #### Top tweets
 
+<img width="487" alt="Skærmbillede 2022-12-20 kl  15 30 15" src="https://user-images.githubusercontent.com/115983285/208690627-5c73fb8c-d43b-4a43-8e6d-903ba30addb2.png">
+
 *Some screenshots from Ana here*
 
 ### Network map
