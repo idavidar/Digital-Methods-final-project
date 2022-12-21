@@ -20,10 +20,19 @@ We chose to examine the tweets of 5 types of groups, and selected 10 organizatio
 <img width="1257" alt="Skærmbillede 2022-12-18 kl  14 20 26" src="https://user-images.githubusercontent.com/115983285/208300656-78315994-0af4-4baf-ace7-aeb8265f35fb.png">
 
 ### Hypotheses
-- H1: pro-life different from pro-choice
-- H2: LGBTQ and minorities like pro-choice, whereas Christian religious groups like pro-life (bc Catholics are vocal, whereas other denominations probably have followers with a range of opinions and do not want to alienate them
-- H3: the non-abortion-focused groups will mix theme-specific words with their tweets on abotion
-- H4: temporal: 'abortion issue' is not the main, direct focus area of these organizations, so they are likely to seldom tweet about abortion unless there are big events that attract attention to this issue, such as the overturning of _Roe v. Wade_. So we  expect them to tweet about this issue on this day, but not very much afterwards).
+We had multiple preliminary expectations of the outcomes of our analysis.
+
+First, we expected the pro-choice and pro-life groups to use different terms and hashtags to frame the abortion debate, with the exception of neutral terms like ‘_Roe v. Wade_’ and ‘Supreme Court.’ This is because pro-choice groups support abortion rights, with few or no limits, and are therefore likely not to discuss abortion in a negative way, whereas pro-life groups oppose abortion right, with few or no exceptions, and are therefore likely to paint abortion in a negative light.
+* _H1_ (pro-choice/pro-life)_: the pro-choice and pro-life groups use different terms and hashtags to frame the abortion debate, with the exception of neutral terms like ‘Roe v. Wade’ and ‘Supreme Court.’_
+
+Second, we expected LGBTQ2S+ groups and minority groups to use similar terms in their tweets as the pro-choice groups use, whereas the Christian religious groups to use words common in both the pro-choice and the pro-life groups. Regarding LGBTQ2S+ groups, many are likely to [fear that the removal of the constitutional right to abortion may lead to a rollback of the rights of LGBTQ2S+ people, including that of same-sex marriage](https://www.pbs.org/newshour/politics/after-supreme-court-abortion-decision-some-fear-rollback-of-lgbtq-and-other-rights), although it should be noted that there are [some LGBTQ2S+ people that clearly are anti-abortion](https://www.nbcnews.com/nbc-out/out-news/anti-abortion-lgbtq-groups-roes-reversal-human-rights-victory-rcna35716). Regarding minority groups, they are likely to fear that the removal of the constitutional right to abortion [disproportionately affects minorities, as these groups are more likely than others to be those receiving abortions](https://www.pbs.org/newshour/nation/black-and-hispanic-people-have-the-most-to-lose-if-roe-is-overturned). In contrast, there are both Christian religious groups that [support and others that oppose abortion rights](https://www.pewresearch.org/fact-tank/2016/06/21/where-major-religious-groups-stand-on-abortion/).
+* _H2_ (affinities)_: LGBTQ2S+ and minority groups use similar terms in their tweets as the pro-choice groups use, whereas the Christian religious group uses words common in both the pro-choice and the pro-life groups._
+
+Furthermore, given that the non-abortion-focused groups (LGBTQS2+, minority and Christian religious) have a different main focus, we expect them to mix their own-issue-specific terms and hashtags with those used by pro-choice and pro-life groups.
+* _H3_ (themes)_: the non-abortion-focused groups (LGBTQS2+, minority and Christian religious) will include their own-issue-specific terms and hashtags in their tweets on abortion._
+
+Finally, we expect the non-abortion-focused groups to mostly tweet about abortion on the day of the leaked Supreme Court opinion draft and on the day of the Dobbs decision that overturned Roe, but very little otherwise. This is because the 'abortion issue' is not the main, direct focus area of the organizations that are not in the pro-choice and pro-life groups, so they are likely to seldom tweet about abortion unless there are big events that attract attention to this issue.
+* _H4_ (temporal)_: non-abortion-focused groups mostly tweet about abortion on the day of the leaked Supreme Court opinion draft and on the day of the_ Dobbs _decision that overturned_ Roe, _but very little otherwise._
 
 
 ## Data Collection
@@ -38,10 +47,6 @@ from:@NARAL OR from:@PPFA OR from:@NatAbortionFed OR from:@NationalNOW OR from:@
 from:@AbortionFunds OR from:@PPact OR from:@womensmarch OR from:@nwlc lang:en until:2022-11-16 since:2022-05-01' 
 > tweets_abortion_pro-choice.csv
 ```
-***Let me know if you like the embedded code instead of the screenshot***
-
-<img width="442" alt="Skærmbillede 2022-12-17 kl  14 13 30" src="https://user-images.githubusercontent.com/115983285/208243628-fa2fb39f-9963-4d92-b42f-df7e049a7db5.png">
-
 
 - Words included in the query: We needed to strike a balance between capture as many of the tweets related to the abortion debate made by these accounts as possible, while not capturing irrelevant tweets. We did this by including terms that were obviously linked to the abortion debate, such as 'abortion' and 'Roe' (referring to _Roe v. Wade_), but also more general words (birth, pregnant etc.) that we assumed to be related to this debate in our specific time period. We refined our query by making several changes, for instance by removing 'Supreme Court' from the query, since we noticed that some of the tweets extracted when querying this term referred to other decisions made by the Supreme Court which were not related to abortion. Based on the qualitative checks of tweets we collected, we felt quite confident that the words remaining in our query provided us with most of the tweets relevant for our project. 
 - Time period: We chose to scrape data spanning a period of 7 months, from a couple of days before the leak of the Supreme Court draft opinion on _Dodd_ (start date: May 1st, 2022) until the day of our analysis (end date: November 16th, 2022). We chose this extended time period beyond the date when _Roe_ was overturned in order to be able to analyse the post-decision debate too, and see if there were some interesting developments over time. Further, abortion resurfaced as an important issue during the US Midterm election season in November. 
@@ -190,6 +195,12 @@ The phrase “culture of life” is featured in the bottom-left tweet, and is co
 ### Network map
 
 ![Screenshot 2022-12-20 at 17 13 37](https://user-images.githubusercontent.com/115983448/208720616-9c83fd93-0392-437f-a1ff-d0b28f5f6842.png)
+
+
+<div class='image-hover-zoom' scale="2.0">
+            <img src='https://user-images.githubusercontent.com/115983448/208720616-9c83fd93-0392-437f-a1ff-d0b28f5f6842.png'>
+        </div>
+
 
 The network map above is of a heterogenous??? network of all 5 groups together (pro-choice, pro-life, minority, LGBTQ2S+ and Christian religious). The number of nodes was restricted to 100 in order to strike a balance between making the map feasible to interpret, and having too few nodes which would result in the joining together of clusters and thus losing important and interesting information. The 5 organisations best associated with each cluster are projected onto the map (an organisation is strongly associated with a cluster if its tweets feature a higher proportion of the terms/hashtags of that cluster than do the tweets of other organisations). In interpreting the map, there is a link (edge) between terms/hashtags if they are mentioned in a tweet together. The thicker this edge between two terms/hashtags, the more frequently they occur together. Furthermore, the larger the size of a node, the more times that term/hashtag is mentioned in the complete corpus of tweets.
 
