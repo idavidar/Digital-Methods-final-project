@@ -210,6 +210,9 @@ Finally, it is interesting to note the link between the pro-choice and pro-life 
 
 ![demography graph](https://user-images.githubusercontent.com/115983448/208968192-bf35fb7f-2fbd-4010-b1b3-cfbe344e876e.png)
 
+The temporal graph shows the number of tweets made on the issue of abortion by the organisations in each of our 5 groups on each day. The numbers are in absolute values (not normalised) and not stacked. As expected, and as shown in our table above when introducing the groups, the pro-choice and pro-life groups have a much higher number of tweets on abortion than the other groups. Also as expected, there are peaks of the number of tweets on days with significant events relating to the issue of abortion, such as the leaked Supreme Court draft opinion on 3 May, the _Dobbs_ decision on 24 June and the midterm elections on 8 November where abortion was [one of the main campaign issues](https://www.nytimes.com/2022/11/10/us/abortion-ballot-midterm-elections.html).
+
+In line with H4, the graph shows that non-abortion-focused groups tweet very little on abortion other than around the main events of the leaked Supreme Court draft opinion and the _Dobbs_ decision. There is also a barely perceptible peak of tweets from these groups during the midterm elections, most likely because they have different issue areas that they focus on and want to campaign for.
 
 ## Conclusion
 
