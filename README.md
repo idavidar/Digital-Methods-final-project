@@ -230,5 +230,14 @@ Finally, it is interesting to note the link between the pro-choice and pro-life 
 
 ## Conclusion
 
+Our analysis aimed to shed light on the way that different groups in the US discussed and framed the ‘abortion issue.’ We analysed the language used in tweets by many pro-choice, pro-life, minority, LGBTQ2S+ and Christian religious organisations between May 1st and November 16th, 2022. In broad strokes our empirical findings were consistent with our hypotheses:
+- Our finding that the pro-choice and pro-life groups use different terms and hashtags to frame the abortion debate, with the exception of neutral terms like ‘Roe v. Wade’ and ‘Supreme Court,’ are consistent with hypothesis H1. 
+- Furthermore, in line with H2, we indeed found that LGBTQ2S+ and minority groups use similar terms in their tweets as the pro-choice groups use, whereas the Christian religious group uses words common in both the pro-choice and the pro-life groups. 
+- The non-abortion-focused groups (LGBTQS2+, minority and Christian religious) included their own-issue-specific terms and hashtags in their tweets on abortion, as expected in H3. 
+- Finally, our temporal analysis showed that non-abortion-focused groups mostly tweet about abortion on the day of the leaked Supreme Court opinion draft and on the day of the Dobbs decision that overturned Roe, but very little otherwise, consistent with H4. It also gave rise to the interesting finding that non-abortion-focused groups did not tweet much about the abortion debate during the November 2022 midterm elections, in contrast to the pro-life and pro-choice groups.
+
+The network map showed graphically the affinity of LGBTQ2S+ groups with pro-choice groups, as well as the former’ interest in the Women Health Protection Act. It also illustrated that natural terms such as ‘dobbs decision’ are the only link between the otherwise polarised language of pro-choice and pro-life stances.
+
+The contingency matrix showed that …
 
 
