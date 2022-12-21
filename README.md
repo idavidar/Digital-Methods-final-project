@@ -51,6 +51,7 @@ from:@AbortionFunds OR from:@PPact OR from:@womensmarch OR from:@nwlc lang:en un
 - Words included in the query: We needed to strike a balance between capture as many of the tweets related to the abortion debate made by these accounts as possible, while not capturing irrelevant tweets. We did this by including terms that were obviously linked to the abortion debate, such as 'abortion' and 'Roe' (referring to _Roe v. Wade_), but also more general words (birth, pregnant etc.) that we assumed to be related to this debate in our specific time period. We refined our query by making several changes, for instance by removing 'Supreme Court' from the query, since we noticed that some of the tweets extracted when querying this term referred to other decisions made by the Supreme Court which were not related to abortion. Based on the qualitative checks of tweets we collected, we felt quite confident that the words remaining in our query provided us with most of the tweets relevant for our project. 
 - Time period: We chose to scrape data spanning a period of 7 months, from a couple of days before the leak of the Supreme Court draft opinion on _Dodd_ (start date: May 1st, 2022) until the day of our analysis (end date: November 16th, 2022). We chose this extended time period beyond the date when _Roe_ was overturned in order to be able to analyse the post-decision debate too, and see if there were some interesting developments over time. Further, abortion resurfaced as an important issue during the US Midterm election season in November. 
 - Language: We scraped and analysed tweets written only in English.
+
 ### How did we choose our groups?
 Our choice of Twitter accounts within each of our 5 different groups was dependent on several things. We searched the internet for relevant and widely-known United States groups/organizations within each of our 5 groups. We then searched for these groups on Twitter and looked at a number of relevant factors, most importantly how many followers they had and how active they had been on Twitter in our time period (prioritizing accounts that actually Tweet in order to give us more data). We then chose the top 10 Twitter accounts to include within each of our groups (e.g. pro-choice, LGBTQ2S+, etc).
 The selection of our total of 50 Twitter accounts gives us a corpus of roughly 10,000 tweets, with a distribution as in the table below:
@@ -195,12 +196,6 @@ The phrase “culture of life” is featured in the bottom-left tweet, and is co
 
 ![Screenshot 2022-12-20 at 17 13 37](https://user-images.githubusercontent.com/115983448/208720616-9c83fd93-0392-437f-a1ff-d0b28f5f6842.png)
 
-
-<div class='image-hover-zoom' scale="2.0">
-            <img src='https://user-images.githubusercontent.com/115983448/208720616-9c83fd93-0392-437f-a1ff-d0b28f5f6842.png'>
-        </div>
-
-
 The network above is of all 5 groups together (pro-choice, pro-life, minority, LGBTQ2S+ and Christian religious). The nodes are terms and hashtags, from a combined list of 100 most frequently used terms and 100 most frequently used hashtags in the combined corpus. The number of nodes in the map was restricted to 100 in order to strike a balance between making the map feasible to interpret, and having too few nodes which would result in the joining together of clusters and thus losing important and interesting information. The 5 organisations best associated with each cluster are projected onto the map (an organisation is strongly associated with a cluster if its tweets feature a higher proportion of the terms/hashtags of that cluster than do the tweets of other organisations). In interpreting the map, there is a link (edge) between terms/hashtags if they are mentioned in a tweet together. The larger the size of a node, the more times that term/hashtag is mentioned in the complete corpus of tweets.
 
 Some of the information shown in the network map mirrors what we found in the above analysis. It shows that pro-choice and pro-life organisations use different language when discussing the ‘abortion issue.’ This can be seen by the fact that the yellow and orange clusters are only associated with pro-choice organisations, whereas the turquoise and lime green clusters are only associated with pro-life organisations. 
@@ -212,6 +207,9 @@ The red cluster is more difficult to interpret. At first glance it seems surpris
 Finally, it is interesting to note the link between the pro-choice and pro-life clusters occurs through the node ‘dobbs decision.’ This makes sense, as it is both a neutral and a very important term, as both sides undoubtedly have a lot to say about the Supreme Court’s decision.
 
 ### Temporal analysis
+
+![demography graph](https://user-images.githubusercontent.com/115983448/208968192-bf35fb7f-2fbd-4010-b1b3-cfbe344e876e.png)
+
 
 ## Conclusion
 
