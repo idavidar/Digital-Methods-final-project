@@ -142,9 +142,6 @@ Furthermore, the hashtag #nodataforcops illustrates that these groups have a foc
 
 Below we show 3 of the 10 most-liked tweets made by these minority groups on the abortion issue. Generally, the indications from the terms and hashtags that these groups have a similar stance on the abortion debate as pro-choice groups are confirmed when looking at the tweets. All 3 tweets indicate fear of harm and concern with the Supreme Court’s decision. 2 of the 3 tweets clearly frame the issue in relation to the rights of Black Americans and how the Supreme Court's decision will especially affect this group, but, as the bottom-left tweet indicates they also highlight how it will affect other minority groups, in this case sexual minorities. 
 
-Another thing worth noticing is that all the top 10 tweets are made from accounts that fight for the rights and equal treatment of Black Americans. 
-It is perhaps expected that these groups have the highest reach and thereby the most likes, since there has been an increased public focus on the rights of black people in recent years with the killing of, among others, George Floyd, and the onset of the Black Lives Matter demonstrations. But as we previously saw in the hashtag list, the other racial minorities such as Asian Americans are also framing the issue in a way that reflects the group they are fighting for. 
-
 <img width="1040" alt="Skærmbillede 2022-12-18 kl  15 34 15" src="https://user-images.githubusercontent.com/115983285/208304232-567a4f54-c8b8-4e0a-9053-12ef3464f41a.png">
 
 ### LGBTQ2S+ groups
