@@ -228,6 +228,14 @@ Finally, it is interesting to note the link between the pro-choice and pro-life 
 
 
 
+### Contingency Matrix (Top Terms vs. Hashtags)
+
+MAP
+
+The contingency matrix above showcases the joint distribution of the two fields selected (namely the top 100 terms and top 100 hashtags) in the corpus. For this analysis, the corpus was composed of all the tweets published by the 50 Twitter accounts we had identified. 
+
+
+
 ## Conclusion
 
 Our analysis aimed to shed light on the way that different groups in the US discussed and framed the ‘abortion issue.’ We analysed the language used in tweets by many pro-choice, pro-life, minority, LGBTQ2S+ and Christian religious organisations between May 1st and November 16th, 2022. In broad strokes our empirical findings were consistent with our hypotheses:
