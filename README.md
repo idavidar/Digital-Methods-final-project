@@ -42,7 +42,7 @@ Finally, we expect the non-abortion-focused groups to mostly tweet about abortio
 ### Search query
 We chose to collect data from Twitter, a popular social media platform, because i) we expect the subject of abortion to be heavily discussed there, ii) the types of groups we chose to analyse are often very active on this platform, and iii) their interactions are public. We scraped our data using minet.
 
-Below is an example of the search query we used (in this case, for the Pro-Choice group):
+Below is an example of the search query we used (in this case, for the pro-choice group):
 
 ```
 ! minet tw scrape tweets '(abortion OR roe OR pro-life OR pro-choice OR reproductive OR birth OR pregnant OR pregnancy) 
