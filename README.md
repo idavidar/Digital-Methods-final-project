@@ -230,9 +230,9 @@ Finally, it is interesting to note the link between the pro-choice and pro-life 
 
 ### Contingency Matrix (Top Terms vs. Hashtags)
 
-MAP
+![cortext_export](https://user-images.githubusercontent.com/115983366/209065542-ab770d3e-b033-4060-9a4d-0a21013ae502.png)
 
-The contingency matrix above showcases the joint distribution of the two fields selected (namely the top 100 terms and top 100 hashtags) in the corpus. For this analysis, the corpus was composed of all the tweets published by the 50 Twitter accounts we had identified. 
+The contingency matrix above showcases the joint distribution of the two fields selected (namely the top 100 terms and top 100 hashtags) in the corpus. For this analysis, the corpus was composed of all the tweets published by the 50 Twitter accounts we had identified. The number of nodes selected was restricted to 10, keeping the table easy to interpret while also highlighting the top 10 terms and hashtags that have a higher co-occurance rate.
 
 
 
